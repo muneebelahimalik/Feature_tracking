@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.compilerPath": "",
+    "files.associations": {
+        "vector": "cpp",
+        "iosfwd": "cpp"
+    }
+}
